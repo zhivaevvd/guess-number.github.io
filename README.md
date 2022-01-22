@@ -1,1 +1,1 @@
-# guess-number.github.io
+# guess-number_JS
